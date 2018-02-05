@@ -1,7 +1,15 @@
 # Built application files
 *.apk
 *.ap_
-
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
 # Files for the ART/Dalvik VM
 *.dex
 
